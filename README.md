@@ -265,18 +265,14 @@ adb emu avd stop
 > 📸 <img width="640" height="84" alt="image" src="https://github.com/user-attachments/assets/46920291-ad94-46e4-a11a-958a5be4c128" />
 
 ## 📁 Structure du dépôt
-
 ```
-lab-securite-android/
 ├── README.md
-├── screenshots/
-│   ├── 1.png        ← adb devices — émulateur détecté
-│   ├── 2.png        ← emulator -list-avds
-│   ├── 3.png        ← adb root + adb shell id (uid=0)
-│   ├── 4.png        ← adb remount — partitions RW
-│   ├── 5.png        ← getprop verifiedbootstate + disable-verity
-│   ├── 6.png        ← lancement émulateur writable-system
-│   └── reset_proof.png      ← preuve wipe AVD (à ajouter)
+├── 1.png        ← adb devices — émulateur détecté
+├── 2.png        ← emulator -list-avds
+├── 3.png        ← adb root + adb shell id (uid=0)
+├── 4.png        ← adb remount — partitions RW
+├── 5.png        ← getprop verifiedbootstate + disable-verity
+├── 6.png        ← lancement émulateur writable-system
 └── logcat_root_check.txt
 ```
 
