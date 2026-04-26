@@ -282,4 +282,4 @@ lab-securite-android/
 
 ---
 
-*Lab réalisé dans un cadre pédagogique strictement contrôlé — Module M45, ENSA Marrakech, GCDSTE S4.*
+*Lab réalisé dans un cadre pédagogique strictement contrôlé — ENSA Marrakech, GCDSTE S4.*
